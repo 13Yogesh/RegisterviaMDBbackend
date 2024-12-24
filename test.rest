@@ -1,0 +1,11 @@
+POST http://localhost:4000/app/signup
+Content-Type: application/json
+
+{
+    "name": "Ajith",
+    "email": "ajith46@gmail.com",
+    "password": "ajith@123",
+    "contact":"1234567890",
+    "age":"50",
+    "jobRole":"Actor"
+}
